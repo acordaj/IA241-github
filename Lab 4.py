@@ -3,7 +3,6 @@ Lab 4
 '''
 
 #3.1 
-
 my_dict = {
     
     'name' : 'Tom',
@@ -46,11 +45,3 @@ print('US'in my_tweet["visted_countries"])
 #3.9 
 my_tweet["coordinates"] = (-81,45)
 print(my_tweet["coordinates"])
-
-
-
-
-
-
-
-
